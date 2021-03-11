@@ -13,9 +13,11 @@ The Runestone Blue Book
 .. Sources can also be included from subfolders of this directory.
    (e.g. "DataStructures/queues.rst").
 
-.. image:: Exams/Figures/bluebook.jpg
+.. image:: Exams/Figures/BlueBook.jpg
    :width: 300px
+   :align: center
 
+           
 Why a Blue Book?
 ================
 
