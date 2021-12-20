@@ -21,7 +21,7 @@ The Runestone Blue Book
 Why a Blue Book?
 ================
 
-Some instructors want a book with no existing content that they can simply customize by creating their own assignments and exams.  This is that book and hence the name Blue Book
+Some instructors want a book with no existing content that they can simply customize by creating their own assignments and exams.  This is that book and hence the name Blue Book.  I have edited this on github now.
 
 
 .. toctree::
